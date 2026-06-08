@@ -26,7 +26,7 @@ MS Information Technology and Management student at St. Francis College, New Yor
 - dbt
 - ETL Pipelines
 
-  **Tools**
+**Tools**
 - Git
 - GitHub
 - Jira
