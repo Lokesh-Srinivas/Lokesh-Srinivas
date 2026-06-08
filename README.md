@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Lokesh Srinivas 
 
-<!--
-**Lokesh-Srinivas/Lokesh-Srinivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MS Information Technology and Management student at St. Francis College, New York.
 
-Here are some ideas to get you started:
+## Areas of Interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Data Analytics
+- Business Intelligence
+- Data Engineering
+- Project Management
+  
+## Technical Skills
+
+**Languages & Querying**
+- SQL
+- Python
+
+**Analytics & BI**
+- Power BI
+- Tableau
+- Excel
+
+**Data Engineering**
+- PostgreSQL
+- Snowflake
+- dbt
+- ETL Pipelines
+
+## Featured Projects
+
+### Cricket Performance Analytics Dashboard
+Python | SQL | PostgreSQL | Tableau
+
+Analyzing international cricket data to identify player performance trends, build KPI-driven dashboards, and generate actionable insights.
+
+### Retail Sales & Customer Analytics Dashboard *(In Progress)*
+SQL | Python | Power BI | Excel
+
+Analyzing sales and customer behavior data to uncover revenue trends, customer segmentation insights, and business performance metrics.
+
+## Connect
+
+LinkedIn:
+www.linkedin.com/in/lokesh-cheekurumelli
+
