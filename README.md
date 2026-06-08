@@ -26,6 +26,11 @@ MS Information Technology and Management student at St. Francis College, New Yor
 - dbt
 - ETL Pipelines
 
+  **Tools**
+- Git
+- GitHub
+- Jira
+
 ## Featured Projects
 
 ### Cricket Performance Analytics Dashboard
